@@ -4,8 +4,6 @@ Este repositório apresenta a página **Início do Futebol**, desenvolvida por *
 
 O projeto completo foi dividido entre os integrantes da turma, com cada pessoa responsável por um tema relacionado ao futebol. Esta página reúne informações sobre as origens do esporte e sua chegada ao Brasil.
 
----
-
 ## 📖 Conteúdo da página
 
 - **Como surgiu o futebol?** — Um resumo das origens do futebol moderno e de sua organização na Inglaterra.
@@ -21,8 +19,6 @@ O projeto completo foi dividido entre os integrantes da turma, com cada pessoa r
 ### O futebol no Brasil
 
 ![Futebol no Brasil](imagens/futebol-brasil.png)
-
----
 
 ## 🎓 Sobre o projeto
 
