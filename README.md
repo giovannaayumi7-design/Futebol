@@ -4,6 +4,8 @@ Este repositório apresenta a página **Início do Futebol**, desenvolvida por *
 
 O projeto completo foi dividido entre os integrantes da turma, com cada pessoa responsável por um tema relacionado ao futebol. Esta página reúne informações sobre as origens do esporte e sua chegada ao Brasil.
 
+---
+
 ## 📖 Conteúdo da página
 
 - **Como surgiu o futebol?** — Um resumo das origens do futebol moderno e de sua organização na Inglaterra.
@@ -20,21 +22,10 @@ O projeto completo foi dividido entre os integrantes da turma, com cada pessoa r
 
 ![Futebol no Brasil](imagens/futebol-brasil.png)
 
-*As capturas mostram o conteúdo da página, sem a barra de navegação.*
-
-## 🧭 Navegação
-
-A página possui uma **barra de navegação simulando o menu do site completo**. Como os demais temas ficaram com outros integrantes do grupo, alguns links são apenas ilustrativos e ainda não levam às páginas correspondentes nesta versão individual.
-
-## 🛠️ Tecnologia utilizada
-
-- **HTML** — Estruturação dos textos, imagens e menu de navegação.
-
-## ▶️ Como visualizar
-
-1. Baixe os arquivos deste repositório.
-2. Abra o arquivo `index.html` no navegador.
+---
 
 ## 🎓 Sobre o projeto
+
+A página possui uma **barra de navegação simulando o menu do site completo**. Como os demais temas ficaram com outros integrantes do grupo, alguns links são apenas ilustrativos e ainda não levam às páginas correspondentes nesta versão individual.
 
 Atividade acadêmica do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvida para praticar a criação de páginas web em HTML.
