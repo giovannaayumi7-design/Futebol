@@ -1,39 +1,40 @@
-# Futebol — páginas de estudo em HTML
+# Futebolisticos — Início do Futebol ⚽
 
-Projeto de prática acadêmica sobre futebol, com páginas dedicadas à história do esporte e ao uso de tecnologia nas partidas.
+Este repositório apresenta a página **Início do Futebol**, desenvolvida por **Ayumi** como parte do projeto acadêmico **Futebolisticos**, realizado durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-## Páginas disponíveis
+O projeto completo foi dividido entre os integrantes da turma, com cada pessoa responsável por um tema relacionado ao futebol. Esta página reúne informações sobre as origens do esporte e sua chegada ao Brasil.
 
-- `index.html`: introdução ao futebol.
-- `tecnologia.html`: apresentação de recursos tecnológicos ligados ao futebol.
+## 📖 Conteúdo da página
 
-As imagens do projeto estão incluídas no repositório.
-
-## Conteúdos praticados
-
-- Estruturação de conteúdo com HTML.
-- Títulos, parágrafos, seções, links e imagens.
-- Organização de páginas por assunto.
-
-## Como visualizar
-
-1. Baixe os arquivos do repositório.
-2. Mantenha os arquivos na mesma pasta.
-3. Abra `index.html` no navegador.
-
-## Estado do projeto
-
-**Em desenvolvimento.** Alguns itens do menu ainda são marcadores provisórios e precisam receber páginas ou links definitivos.
-
-> Projeto de estudo; o conteúdo e a navegação poderão ser aprimorados ao longo do aprendizado.
+- **Como surgiu o futebol?** — Um resumo das origens do futebol moderno e de sua organização na Inglaterra.
+- **O futebol no mundo** — A expansão do esporte e sua popularização em diferentes países.
+- **O futebol no Brasil** — A chegada do futebol ao país e o início de sua difusão.
 
 ## 📸 Capturas de tela
 
-### Página inicial
-![Página inicial](imagens/pagina-inicial.png)
+### Como surgiu o futebol?
 
-### Grandes jogadores
-![Grandes jogadores](imagens/pagina-jogadores.png)
+![Origem do futebol](imagens/origem-futebol.png)
 
-### Times
-![Times](imagens/pagina-times.png)
+### O futebol no Brasil
+
+![Futebol no Brasil](imagens/futebol-brasil.png)
+
+*As capturas mostram o conteúdo da página, sem a barra de navegação.*
+
+## 🧭 Navegação
+
+A página possui uma **barra de navegação simulando o menu do site completo**. Como os demais temas ficaram com outros integrantes do grupo, alguns links são apenas ilustrativos e ainda não levam às páginas correspondentes nesta versão individual.
+
+## 🛠️ Tecnologia utilizada
+
+- **HTML** — Estruturação dos textos, imagens e menu de navegação.
+
+## ▶️ Como visualizar
+
+1. Baixe os arquivos deste repositório.
+2. Abra o arquivo `index.html` no navegador.
+
+## 🎓 Sobre o projeto
+
+Atividade acadêmica do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvida para praticar a criação de páginas web em HTML.
